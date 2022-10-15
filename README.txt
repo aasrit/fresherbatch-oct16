@@ -1,2 +1,2 @@
-BRANCHING ASSIGNMENTS of js i.e java script
+BRANCHING ASSIGNMENTS of js 
 regarding css
